@@ -1,0 +1,18 @@
+[
+	{
+		"q": "Tell me about yourself...",
+		"a": ""
+	},
+	{
+		"q": "What do you do when you can't solve a problem...",
+		"a": ""
+	},
+	{
+		"q": "What are some of your favorite features of ES6?",
+		"a": ""
+	},
+	{
+		"q": "What is the difference between var, let, and const?",
+		"a": ""
+	}
+]
